@@ -1,0 +1,16 @@
+Station,Passengers,latitude,longitude,Rank,County,Borough,total_pop,pct_women,income,professional,transit
+34th St-Penn Station,140104.2987,40.7506,-73.9893,1,New York,Manhattan,1259,39.79,159821,74.2,41.1
+Grand Central-42nd St,121782.5974,40.7524,-73.9768,2,New York,Manhattan,1717,52.12,122379,75.4,37.2
+34th St-Herald Square,98827.53247,40.7503,-73.9887,3,New York,Manhattan,1912,55.91,103264,75.9,36.5
+14th St-Union Square,90099.84091,40.7351,-73.9905,4,New York,Manhattan,4998,55.78,102723,73.8,58.2
+Times Square-42nd St,87716.35714,40.7561,-73.9874,5,New York,Manhattan,126,23.81,82361,66.7,44.4
+23rd St,83747.98377,40.7431,-73.9933,6,New York,Manhattan,2963,48.57,115521,77,68.2
+42nd St-Port Authority,80674.63961,40.7574,-73.9895,7,New York,Manhattan,8192,44.21,62301,66,41.8
+Fulston St,77993.34416,40.7093,-74.0083,8,New York,Manhattan,4374,56.65,123558,75.2,59.4
+86th St,76594.98701,40.7777,-73.9516,9,New York,Manhattan,6751,53.96,109493,69.4,66.8
+125th St,64645.12987,40.8043,-73.9373,10,New York,Manhattan,10211,50.31,53389,63.3,63.7
+Canal St,63026.18182,40.7194,-74.002,11,New York,Manhattan,2666,53.9,129904,72.2,56.2
+59th St-Columbus Circle,60960.48052,40.7687,-73.9818,12,New York,Manhattan,6698,55.3,142982,74.8,40
+59th St-Lexington Ave,56919.16558,40.7628,-73.9676,13,New York,Manhattan,2345,52.96,151131,77.8,39.1
+96th St,56492.88312,40.7834,-73.9476,14,New York,Manhattan,8232,53.97,100956,74.5,67.4
+Flushing-Main St,52277.98377,,,15,Queens,Queens,4526,56.53,37275,31.6,49.1
